@@ -23,6 +23,7 @@ O sistema oferece um menu interativo com as seguintes capacidades:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 | Tecnologia | Versão | Descrição |
 | :--- | :--- | :--- |
@@ -52,7 +53,7 @@ No seu IntelliJ:
 1.  Vá em **Run** > **Edit Configurations...**.
 2.  No campo **Environment Variables**, adicione uma nova variável com o seguinte par:
     * **Nome:** `API_KEY_CONVERSOR`
-    * **Valor:** `SUA_CHAVE_PESSOAL_AQUI` (Ex: `c6fdfefb45e2291d0563f65c`)
+    * **Valor:** `SUA_CHAVE_PESSOAL_AQUI` (Ex: `x0x0x0x0x0x0x0x0x0x0x`)
 
 ### 3. Execução
 
